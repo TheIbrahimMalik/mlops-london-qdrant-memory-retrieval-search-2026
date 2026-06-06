@@ -21,11 +21,10 @@ Event page: https://luma.com/9k4ohvyj
 [Slides](slides/shashi_memory_layer_for_coding_agents.pdf)
 
 [Web slides](https://shashikant86.github.io/MLOps-Community-Talk/)  
-[Source repo](https://github.com/Shashikant86/MLOps-Community-Talk)
 
 ### 3. Dmytro Yaroshenko @ Factory
 
-**Context, Environment, Knowledge: Three Layers on the Road to Autonomous Engineering**
+**Context, Environment, Organisation: Three Layers on the Road to Autonomous Engineering**
 
 [Slides](slides/dmytro_context_environment_organisation_factory.pdf)
 
