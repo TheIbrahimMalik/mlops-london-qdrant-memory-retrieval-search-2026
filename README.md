@@ -27,7 +27,7 @@ Event page: https://luma.com/9k4ohvyj
 
 **Context, Environment, Knowledge: Three Layers on the Road to Autonomous Engineering**
 
-[Slides](slides/dmytro_context_environment_knowledge_factory.pdf)
+[Slides](slides/dmytro_context_environment_organisation_factory.pdf)
 
 ### 4. Talha Sheikh @ Checkout.com
 
